@@ -123,7 +123,7 @@ faceIDLabel.isHidden = (state == .loggedin) || (context.biometryType != .faceID)
 - Touch ID or Face ID fails to recognize the user.
 - You’ve previously invalidated the context with a call to the [invalidate()](https://developer.apple.com/documentation/localauthentication/lacontext/1514192-invalidate) method.(invalidate() 메서드를 호출해서 context 를 무효화하는 것을 말한다. )
 
-가능한 error 조건의 전체 목록은 [LAError.Code](https://developer.apple.com/documentation/localauthentication/laerror/code\) 를 참조하자.
+가능한 error 조건의 전체 목록은 [LAError.Code](https://developer.apple.com/documentation/localauthentication/laerror/code/) 를 참조하자.
 
 샘플 앱은 대체 인증을 구현하지 않았다. 실제 앱에서는 local authentication error 가 발생하면 사용자 이름과 비밀번호를 묻는 것과 같은 고유한 인증 체계로 대체한다. (즉, 유일한 인증옵션으로 대하지 말라는 것.)
 
