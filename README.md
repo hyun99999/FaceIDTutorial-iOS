@@ -226,9 +226,13 @@ class ViewController: UIViewController {
 - (활성화 이전에 생체인식 인증을 시도하면 passcode 를 입력받으려 한다.)
 
 <img src ="https://user-images.githubusercontent.com/69136340/132942442-cf22c39b-af0c-4e9d-905e-6f3b13839f11.png" width ="450">
+
 - Face ID 를 매칭 / 비매칭 선택할 수 있다.
 
 <img src ="https://user-images.githubusercontent.com/69136340/132942444-b9e7d2af-465b-4dc4-932d-910acf01f34b.png" width ="450">
+
+### 결과
+<img src ="https://user-images.githubusercontent.com/69136340/132942657-925d5a70-5982-4abb-af10-89b65535e1b5.gif" width ="250">
 
 ### 출처
 
