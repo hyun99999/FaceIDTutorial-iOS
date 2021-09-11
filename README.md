@@ -1,5 +1,5 @@
 # FaceIDTutorial-iOS
-😃 Face ID biometrics authentication 대작전
+😨 Face ID 를 활용한 오싹한 생체인식 인증 실험
 
 # 시작 전
 
